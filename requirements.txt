@@ -1,0 +1,13 @@
+pandas
+numpy
+nltk
+lxml
+sentence-transformers
+umap-learn
+hdbscan
+bertopic
+scikit-learn
+openai
+langchain
+chromadb
+jupyter

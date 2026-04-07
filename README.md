@@ -3,9 +3,13 @@
 This project focuses on analyzing one of the largest available datasets of Computer Science publications - the **DBLP** database. The main goal is to extract meaningful insights, analyze the evolution of research trends over the past decades, and implement a smart recommendation system powered by Artificial Intelligence.
 
 ## Instalation
-Please, before running code place DBLP dataset in "data" folder.
+* Please, before running code place DBLP dataset in "data" folder.
+* To install frameworks use: 
+* pip install -r requirements.txt
 
 ## Project Structure
+Raport link for Notion: 
+https://www.notion.so/DBLP-analysis-raport-33bf435493a480adbd23e1b20bb55343?showMoveTo=true&saveParent=true
 
 The project is divided into core analytical modules contained within Jupyter Notebooks:
 
