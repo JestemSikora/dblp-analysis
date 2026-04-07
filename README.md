@@ -8,7 +8,7 @@ This project focuses on analyzing one of the largest available datasets of Compu
 * pip install -r requirements.txt
 
 ## Project Structure
-Raport link for Notion: 
+Raport link (Notion): 
 https://www.notion.so/DBLP-analysis-raport-33bf435493a480adbd23e1b20bb55343?showMoveTo=true&saveParent=true
 
 The project is divided into core analytical modules contained within Jupyter Notebooks:
