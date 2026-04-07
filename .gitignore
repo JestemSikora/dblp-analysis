@@ -1,0 +1,20 @@
+# Środowisko wirtualne (cały folder .venv i konfiguracja)
+.venv/
+pyvenv.cfg
+.venv-dblp/
+# Cache Pythona (pliki .pyc i foldery __pycache__)
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Dane (folder data często zawiera duże zestawy danych, których nie wrzuca się na Git)
+data/
+
+# Pliki tymczasowe Jupyter Notebook
+.ipynb_checkpoints/
+
+# (Opcjonalnie) Jeśli używasz VS Code
+.vscode/
+
+src/xml_to_sqlite.py
+.env
